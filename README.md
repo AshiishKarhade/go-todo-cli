@@ -11,7 +11,7 @@ A beautiful CLI To-do app made using Go!
 Install go-cli-project with go
 
 ```bash
-  git clone https://github.com/AshiishKarhade/go-todo-cli
+  git clone https://github.com/AshiishKarhade/go-todo-cli.git
   cd go-todo-cli 
 ```
 
